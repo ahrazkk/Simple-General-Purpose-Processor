@@ -19,4 +19,8 @@ In Part VI, we combined all the designed components, including the registers, AL
 
 Finally, in Part VIII, we addressed various problem sets related to the ALU and control unit. We implemented the initial design of the GPU, modified the ALU core to perform different operations, and modified the control unit to display specific outputs based on the FSM output.
 
+However I must add, their were errors in certain parts of it which could not be fixed.
+
 Overall, this lab allowed us to gain hands-on experience in designing and implementing a simple general-purpose processor using VHDL and an FPGA board. We learned about the different components of the ALU and control unit and their roles in processing and controlling operations.
+
+
